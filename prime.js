@@ -8,7 +8,7 @@ function isPrime(N){
             result=false;
         }
     }
-    return results;
+    return result;
 }
 
 console.log(isPrime(13))
